@@ -1,4 +1,4 @@
-# The course Effective, code files and notes 
+# The course Effective C, code files and notes 
 
 ## Session 0
 
