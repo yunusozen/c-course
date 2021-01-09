@@ -1,7 +1,7 @@
-#C Course Source Code Files
+# The course Effective, code files and notes 
 
-## Session Number 0
+## Session 0
 
-Hello World!
+- Hello World!
 
-Compiling multiple source code files
+- Compiling multiple source code files
